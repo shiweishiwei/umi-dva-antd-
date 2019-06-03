@@ -1,0 +1,12 @@
+@import '../../node_modules/antd/dist/antd.css';
+
+.loginform {
+  max-width: 300px;
+  margin:0 auto;
+}
+.loginformforgot {
+  float: right;
+}
+.loginformbutton {
+  width: 100%;
+}

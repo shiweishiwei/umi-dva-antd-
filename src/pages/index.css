@@ -1,0 +1,20 @@
+.welcome {
+    height: 328px;
+    background: url(../assets/yay.jpg) no-repeat center 0;
+    background-size: 388px 328px;
+  }
+
+.input{
+    width:250px;
+    display: block;
+  }
+  
+.input_box{
+  margin:0 auto;
+  width: 280px;
+  height:200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
